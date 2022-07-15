@@ -1,0 +1,15 @@
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.csproj.AssemblyReference.cache
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.AssemblyInfoInputs.cache
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.AssemblyInfo.cs
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.csproj.CoreCompileInputs.cache
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\bin\Debug\net6.0\HW_Lecture3.exe
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\bin\Debug\net6.0\HW_Lecture3.deps.json
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\bin\Debug\net6.0\HW_Lecture3.runtimeconfig.json
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\bin\Debug\net6.0\HW_Lecture3.dll
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\bin\Debug\net6.0\HW_Lecture3.pdb
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.dll
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\refint\HW_Lecture3.dll
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.pdb
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\HW_Lecture3.genruntimeconfig.cache
+D:\Practice1\Lecture-3_HW\HW_Lecture3\HW_Lecture3\obj\Debug\net6.0\ref\HW_Lecture3.dll
