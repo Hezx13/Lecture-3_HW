@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace HW_Lecture3;
 
-public class Program
+class Program
 {
     public static void Main(string[] args)
     {
